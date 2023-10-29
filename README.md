@@ -37,9 +37,6 @@ While this project has achieved the goal of generating handwritten digits, GANs 
 ## Contributions
 Contributions and improvements to the code or documentation are welcome. Please submit a pull request.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
 **Note:** The training process may take some time, depending on your hardware configuration. The provided Jupyter Notebook contains detailed code and explanations to help you understand the project.
